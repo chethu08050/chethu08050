@@ -12,19 +12,6 @@
 
 ---
 
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=for-the-badge" />
-</p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -42,12 +29,6 @@
 
 ---
 
-## 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethankumarhc&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
