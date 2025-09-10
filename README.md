@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chethankumarhc&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethankumarhc&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chethankumarhc&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethankumarhc&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
@@ -43,20 +43,22 @@
 ---
 
 ## 📈 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chethankumarhc&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethankumarhc&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/chethankumarhc">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chethankumarhc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/chethankumarhc">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
