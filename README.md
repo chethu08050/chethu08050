@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chethankumarhc&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethankumarhc&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
 ## 🌌 Hackathon & Space Projects  
 - 🚗 **Mars Rover Navigation AI** → Autonomous navigation using RL + CV  
 - 🚀 **Rocket Engine Fault Detection** → AI-powered predictive maintenance  
@@ -42,12 +34,6 @@
 
 ---
 
-## 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chethankumarhc&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
